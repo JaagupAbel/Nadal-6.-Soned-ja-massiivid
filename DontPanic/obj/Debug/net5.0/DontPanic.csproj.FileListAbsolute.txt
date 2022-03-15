@@ -1,0 +1,16 @@
+C:\Users\jaagu\source\repos\StringAndArrays\DontPanic\obj\Debug\net5.0\DontPanic.csproj.AssemblyReference.cache
+C:\Users\jaagu\source\repos\StringAndArrays\DontPanic\obj\Debug\net5.0\DontPanic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaagu\source\repos\StringAndArrays\DontPanic\obj\Debug\net5.0\DontPanic.AssemblyInfoInputs.cache
+C:\Users\jaagu\source\repos\StringAndArrays\DontPanic\obj\Debug\net5.0\DontPanic.AssemblyInfo.cs
+C:\Users\jaagu\source\repos\StringAndArrays\DontPanic\obj\Debug\net5.0\DontPanic.csproj.CoreCompileInputs.cache
+C:\Users\jaagu\source\repos\StringAndArrays\DontPanic\bin\Debug\net5.0\DontPanic.exe
+C:\Users\jaagu\source\repos\StringAndArrays\DontPanic\bin\Debug\net5.0\DontPanic.deps.json
+C:\Users\jaagu\source\repos\StringAndArrays\DontPanic\bin\Debug\net5.0\DontPanic.runtimeconfig.json
+C:\Users\jaagu\source\repos\StringAndArrays\DontPanic\bin\Debug\net5.0\DontPanic.runtimeconfig.dev.json
+C:\Users\jaagu\source\repos\StringAndArrays\DontPanic\bin\Debug\net5.0\DontPanic.dll
+C:\Users\jaagu\source\repos\StringAndArrays\DontPanic\bin\Debug\net5.0\ref\DontPanic.dll
+C:\Users\jaagu\source\repos\StringAndArrays\DontPanic\bin\Debug\net5.0\DontPanic.pdb
+C:\Users\jaagu\source\repos\StringAndArrays\DontPanic\obj\Debug\net5.0\DontPanic.dll
+C:\Users\jaagu\source\repos\StringAndArrays\DontPanic\obj\Debug\net5.0\ref\DontPanic.dll
+C:\Users\jaagu\source\repos\StringAndArrays\DontPanic\obj\Debug\net5.0\DontPanic.pdb
+C:\Users\jaagu\source\repos\StringAndArrays\DontPanic\obj\Debug\net5.0\DontPanic.genruntimeconfig.cache

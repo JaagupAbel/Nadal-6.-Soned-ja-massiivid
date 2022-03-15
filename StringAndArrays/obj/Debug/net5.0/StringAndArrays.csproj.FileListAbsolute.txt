@@ -1,0 +1,16 @@
+C:\Users\jaagu\source\repos\StringAndArrays\StringAndArrays\bin\Debug\net5.0\StringAndArrays.exe
+C:\Users\jaagu\source\repos\StringAndArrays\StringAndArrays\bin\Debug\net5.0\StringAndArrays.deps.json
+C:\Users\jaagu\source\repos\StringAndArrays\StringAndArrays\bin\Debug\net5.0\StringAndArrays.runtimeconfig.json
+C:\Users\jaagu\source\repos\StringAndArrays\StringAndArrays\bin\Debug\net5.0\StringAndArrays.runtimeconfig.dev.json
+C:\Users\jaagu\source\repos\StringAndArrays\StringAndArrays\bin\Debug\net5.0\StringAndArrays.dll
+C:\Users\jaagu\source\repos\StringAndArrays\StringAndArrays\bin\Debug\net5.0\ref\StringAndArrays.dll
+C:\Users\jaagu\source\repos\StringAndArrays\StringAndArrays\bin\Debug\net5.0\StringAndArrays.pdb
+C:\Users\jaagu\source\repos\StringAndArrays\StringAndArrays\obj\Debug\net5.0\StringAndArrays.csproj.AssemblyReference.cache
+C:\Users\jaagu\source\repos\StringAndArrays\StringAndArrays\obj\Debug\net5.0\StringAndArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaagu\source\repos\StringAndArrays\StringAndArrays\obj\Debug\net5.0\StringAndArrays.AssemblyInfoInputs.cache
+C:\Users\jaagu\source\repos\StringAndArrays\StringAndArrays\obj\Debug\net5.0\StringAndArrays.AssemblyInfo.cs
+C:\Users\jaagu\source\repos\StringAndArrays\StringAndArrays\obj\Debug\net5.0\StringAndArrays.csproj.CoreCompileInputs.cache
+C:\Users\jaagu\source\repos\StringAndArrays\StringAndArrays\obj\Debug\net5.0\StringAndArrays.dll
+C:\Users\jaagu\source\repos\StringAndArrays\StringAndArrays\obj\Debug\net5.0\ref\StringAndArrays.dll
+C:\Users\jaagu\source\repos\StringAndArrays\StringAndArrays\obj\Debug\net5.0\StringAndArrays.pdb
+C:\Users\jaagu\source\repos\StringAndArrays\StringAndArrays\obj\Debug\net5.0\StringAndArrays.genruntimeconfig.cache
